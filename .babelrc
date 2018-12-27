@@ -6,7 +6,8 @@
         "loose": true,
         "modules": false,
         "targets": {
-          "browsers": "last 2 chrome versions"
+          "chrome":"58",
+          "ie": "11"
         }
       }
     ],

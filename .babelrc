@@ -1,7 +1,7 @@
 {
   "presets": [
     [
-      "env",
+      "@babel/preset-env",
       {
         "loose": true,
         "modules": false,
@@ -10,7 +10,7 @@
         }
       }
     ],
-    "react"
+    "@babel/preset-react"
   ],
   "plugins": [
     "react-hot-loader/babel",
